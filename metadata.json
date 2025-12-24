@@ -1,0 +1,7 @@
+{
+  "name": "VitaCare Marketplace",
+  "description": "A trusted, science-backed health solutions platform blending products and telehealth services.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
